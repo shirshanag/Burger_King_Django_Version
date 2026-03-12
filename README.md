@@ -120,7 +120,16 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshots
 
-(Add screenshots of homepage, menu, booking page here)
+```
+<img width="1357" height="843" alt="image" src="https://github.com/user-attachments/assets/53046e2c-7d75-4c47-8a83-5877bdc8ce5d" />
+<img width="1285" height="826" alt="image" src="https://github.com/user-attachments/assets/3ad576d9-3f1a-4d2e-86a0-1b29835f8fc7" />
+<img width="1362" height="817" alt="image" src="https://github.com/user-attachments/assets/1d36af38-284b-4583-a5c7-034ae739912c" />
+<img width="1350" height="830" alt="image" src="https://github.com/user-attachments/assets/ffa8fc49-2cd5-48a2-a390-d80f6919fd32" />
+
+
+
+```
+
 
 ---
 
