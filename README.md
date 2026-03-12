@@ -121,7 +121,8 @@ http://127.0.0.1:8000/
 ## 📸 Screenshots
 
 
-![Home Page](assets/1.jpg)
+![Screenshot](assets/1.jpg)
+![About page](assets/2.png)
 
 
 
